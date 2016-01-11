@@ -14,5 +14,6 @@ hs_err_pid*
 #Intellij Idea files
 .idea/
 /out/
+out/*
 .idea/*
 *.iml
